@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk 2077",
+    "rating": 4.2,
+    "released": "2020-12-10",
+    "genres": ["RPG", "Open World"],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lbd.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elden Ring",
+    "rating": 4.8,
+    "released": "2022-02-25",
+    "genres": ["Action", "RPG"],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Red Dead Redemption 2",
+    "rating": 4.9,
+    "released": "2018-10-26",
+    "genres": ["Adventure", "Open World"],
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg"
+  }
+]
